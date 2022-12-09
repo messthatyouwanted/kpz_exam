@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/OFYl3THMEWXG06EDFHkN9wU7T/wBpDbCYXI4X/Zt47SNT6ju8mbSdAEPWZqmZXUnFqgbGV2R4QYnLqALGz1UQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pavlo\\Desktop\\3.1\\KPZ\\Sport\\WpfClient\\WpfClient\\WpfClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavlo\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
